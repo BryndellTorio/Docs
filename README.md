@@ -1,4 +1,4 @@
 # Docs
 
 
-Main used for transferring files from one computer into the other.
+Mainly used for transferring files from one computer into the other.
